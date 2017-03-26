@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Masters of Disasters</string>
+    <string name="offer">Our offer includes:</string>
+    <string name="furniture">customizing your furniture with claws</string>
+    <string name="spots">making paw-like spots on baths, sinks etc.</string>
+    <string name="flies">catching flies</string>
+    <string name="shredding">shredding cardboard with teeth</string>
+    <string name="soil">soil digging</string>
+    <string name="laundry">sorting laundry</string>
+    <string name="drawers">opening drawers and closets</string>
+    <string name="more">and many more</string>
+    <string name="scroll">Scroll down to see some of our projects</string>
+    <string name="hireus">Interested? Hire us!</string>
+    <string name="name">Masters of Disasters Ltd</string>
+    <string name="address">Piaseczno, Masovian District, Poland</string>
+    <string name="hours">Opening hours: 8-11 PM, 4-8 AM</string>
+    <string name="find">We are on YouTube: TigerBuddies</string>
+</resources>
