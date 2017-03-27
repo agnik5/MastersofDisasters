@@ -9,8 +9,9 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -129,7 +130,8 @@
                     android:src="@drawable/masters2"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:scaleType="fitStart" />
+                    android:scaleType="fitStart"
+                    android:contentDescription="@string/desc_masters"/>
             </LinearLayout>
 
             <RelativeLayout
@@ -139,7 +141,8 @@
                     android:src="@drawable/plants"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:scaleType="centerCrop" />
+                    android:scaleType="centerCrop"
+                    android:contentDescription="@string/desc_plants"/>
             </RelativeLayout>
 
             <RelativeLayout
@@ -149,7 +152,8 @@
                     android:src="@drawable/drawers"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:scaleType="centerCrop" />
+                    android:scaleType="centerCrop"
+                    android:contentDescription="@string/desc_drawers"/>
             </RelativeLayout>
 
             <RelativeLayout
@@ -159,7 +163,8 @@
                     android:src="@drawable/laundry"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:scaleType="centerCrop" />
+                    android:scaleType="centerCrop"
+                    android:contentDescription="@string/desc_laundry"/>
             </RelativeLayout>
 
             <LinearLayout
@@ -220,8 +225,9 @@
                     android:src="@drawable/hireus"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:scaleType="fitStart" />
+                    android:scaleType="fitStart"
+                    android:contentDescription="@string/desc_hireus"/>
             </LinearLayout>
-
+        
     </LinearLayout>
 </ScrollView>

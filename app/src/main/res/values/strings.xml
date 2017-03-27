@@ -13,6 +13,11 @@
     <string name="hireus">Interested? Hire us!</string>
     <string name="name">Masters of Disasters Ltd</string>
     <string name="address">Piaseczno, Masovian District, Poland</string>
-    <string name="hours">Opening hours: 8-11 PM, 4-8 AM</string>
+    <string name="hours">Opening hours: 8\-11 PM, 4\-8 AM</string>
     <string name="find">We are on YouTube: TigerBuddies</string>
+    <string name="desc_masters">Two cats looking down from wardrobe</string>
+    <string name="desc_plants">Plants and soil dug out by cats</string>
+    <string name="desc_drawers">Two cats looking into open drawers</string>
+    <string name="desc_laundry">Laundry dug out from washing machine by cats</string>
+    <string name="desc_hireus">Two cats on a chair</string>
 </resources>
