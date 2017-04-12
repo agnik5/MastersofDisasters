@@ -22,122 +22,122 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/black"
-                android:paddingBottom="@dimen/padding_top_bottom_big"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_big"
+                android:paddingBottom="@dimen/padding_top_bottom_big_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_big_600"
                 android:text="@string/offer"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_big" />
+                android:textSize="@dimen/text_size_big_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey1"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/furniture"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey2"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/spots"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey3"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/flies"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey4"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/shredding"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey5"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/text_size_normal"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/text_size_normal_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/soil"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey6"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/laundry"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey7"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/drawers"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey8"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/more"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey9"
                 android:orientation="horizontal"
-                android:paddingBottom="@dimen/padding_top_bottom_big"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_big">
+                android:paddingBottom="@dimen/padding_top_bottom_big_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_big_600">
 
                 <ImageView
-                    android:layout_width="@dimen/paw_size"
-                    android:layout_height="@dimen/paw_size"
+                    android:layout_width="@dimen/paw_size_600"
+                    android:layout_height="@dimen/paw_size_600"
                     android:src="@drawable/catpaw" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:paddingLeft="@dimen/padding_left"
+                    android:paddingLeft="@dimen/padding_left_600"
                     android:text="@string/scroll"
                     android:textColor="@color/black"
-                    android:textSize="@dimen/text_size_normal" />
+                    android:textSize="@dimen/text_size_normal_600" />
             </LinearLayout>
 
             <ImageView
@@ -178,56 +178,56 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/black"
-                android:paddingBottom="@dimen/padding_top_bottom_big"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_big"
+                android:paddingBottom="@dimen/padding_top_bottom_big_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_big_600"
                 android:text="@string/hire_us"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_big" />
+                android:textSize="@dimen/text_size_big_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey1"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/name"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey2"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/address"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey3"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/hours"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/grey4"
-                android:paddingBottom="@dimen/padding_top_bottom_normal"
-                android:paddingLeft="@dimen/padding_left"
-                android:paddingTop="@dimen/padding_top_bottom_normal"
+                android:paddingBottom="@dimen/padding_top_bottom_normal_600"
+                android:paddingLeft="@dimen/padding_left_600"
+                android:paddingTop="@dimen/padding_top_bottom_normal_600"
                 android:text="@string/find"
                 android:textColor="@color/white"
-                android:textSize="@dimen/text_size_normal" />
+                android:textSize="@dimen/text_size_normal_600" />
 
             <ImageView
                 android:layout_width="match_parent"
